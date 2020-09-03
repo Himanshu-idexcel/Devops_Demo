@@ -11,8 +11,7 @@ from flask import send_from_directory
 
 # from nltk.corpus import stopwords
 #===================================================================================================================================
-ACCESS_KEY = 'AKIA5PAMPFU23CF6PD5G'
-SECRET_KEY = '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'
+
 app = Flask(__name__)
                             #initilaze the flask application
 
